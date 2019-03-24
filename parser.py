@@ -16,3 +16,4 @@ if __name__ == "__main__":
     lines = read_file(filename)
     print("Author is d.galamaga")
     print(filter_lines(regexp, lines))
+    
